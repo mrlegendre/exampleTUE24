@@ -9,3 +9,16 @@ career goals and FinTech as career path- work on good projects with good teams o
 
 */
 
+# header
+
+## header
+
+### Header
+
+**Bold word**
+
+*italic word*
+
+[link text - The Roots - The Web] (https://www.youtube.com/watch?v=ojC0mg2hJCc)
+
+![]
